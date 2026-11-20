@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719657542074",
+    "project_id": "civil-expense-manager",
+    "storage_bucket": "civil-expense-manager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719657542074:android:ecab3f79d88cc2f9a6bd83",
+        "android_client_info": {
+          "package_name": "com.example.civil_expense_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0LGbHBXDhXEVmBzWzxJAMR2tzUZbHuL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
